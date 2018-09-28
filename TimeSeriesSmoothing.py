@@ -80,7 +80,3 @@ class TimeSeriesSmoother():
         
         return
     
-    
-    def MLR_Model(self,timeSeries):
-        
-        return
